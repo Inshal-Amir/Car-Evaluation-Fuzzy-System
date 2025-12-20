@@ -1,0 +1,6 @@
+{
+  "full_accuracy": 0.73,
+  "ablated_accuracy": 0.725,
+  "drop_k": 3,
+  "n": 600
+}
