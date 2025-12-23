@@ -1,4 +1,3 @@
-````markdown
 # Car Evaluation Fuzzy System
 
 This project implements a fuzzy logic based car evaluation system using a Mamdani Fuzzy Inference System, along with a baseline crisp model and a web-based dashboard for visualization and interaction.
